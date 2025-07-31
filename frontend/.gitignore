@@ -1,0 +1,39 @@
+# Node modules
+node_modules/
+
+# Build output
+build/
+dist/
+coverage/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Misc
+*.tgz
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Public build artifacts
+public/build/
+
+# Others
+*.pem
+*.key
+*.crt
